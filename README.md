@@ -35,6 +35,6 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 ***
 <a href="https://chat.whatsapp.com/Iiw1HV8VnA444bogMYBBvr"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 5. Now Deploy Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/udCyRC?referralCode=UiCWuC)
 
-    <br>
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/4OSsVy)
+
